@@ -1,0 +1,17 @@
+{
+  "name": "full_stack_webapp_js",
+  "version": "1.0.0",
+  "description": "MariusApp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Guei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
